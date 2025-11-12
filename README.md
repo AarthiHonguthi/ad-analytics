@@ -143,7 +143,7 @@ Click the Trigger DAG button (▶️) beside each one.
 
 You can track the execution flow through:
 
-- **Airflow Graph View** → Visualizes task dependencies and execution order
+- **Airflow Graph View** → Visualizes task dependencies and order in which tasks execute
 - **Flower Dashboard** → Monitors real-time task progress, retries, and worker status
 
 ### 5. Validate Results
