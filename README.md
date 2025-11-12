@@ -153,3 +153,18 @@ Once the DAGs complete successfully:
 - Check the fake_gcs/ folder in your project — it should contain Parquet files by movie genre.
 - Verify data loaded into BigQuery under your configured dataset.
 - Confirm dbt models (like top_action_movies) are created inside your analytics schema.
+
+## 👩‍💻 Contributors:
+
+* Ayesha
+* Aarthi Honguthi
+* Dhanalakshmi Dhanapal
+
+---
+
+## Demo Video:
+
+Watch our 2-minute project demo here:
+🔗 [https://drive.google.com/file/d/1eTF47OxUEebXEzhFnJKu9dfGXvvuQDAL/view?usp=sharing](https://drive.google.com/file/d/1eTF47OxUEebXEzhFnJKu9dfGXvvuQDAL/view?usp=sharing)
+
+---
